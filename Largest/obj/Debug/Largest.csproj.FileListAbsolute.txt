@@ -1,0 +1,6 @@
+C:\Users\eahscs\Documents\GitHub\GettingStarted\Largest\bin\Debug\Largest.exe.config
+C:\Users\eahscs\Documents\GitHub\GettingStarted\Largest\bin\Debug\Largest.exe
+C:\Users\eahscs\Documents\GitHub\GettingStarted\Largest\bin\Debug\Largest.pdb
+C:\Users\eahscs\Documents\GitHub\GettingStarted\Largest\obj\Debug\Largest.csprojResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\GettingStarted\Largest\obj\Debug\Largest.exe
+C:\Users\eahscs\Documents\GitHub\GettingStarted\Largest\obj\Debug\Largest.pdb
