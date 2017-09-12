@@ -1,0 +1,6 @@
+C:\Users\eahscs\Documents\GitHub\GettingStarted\GradeMatch\bin\Debug\GradeMatch.exe.config
+C:\Users\eahscs\Documents\GitHub\GettingStarted\GradeMatch\bin\Debug\GradeMatch.exe
+C:\Users\eahscs\Documents\GitHub\GettingStarted\GradeMatch\bin\Debug\GradeMatch.pdb
+C:\Users\eahscs\Documents\GitHub\GettingStarted\GradeMatch\obj\Debug\GradeMatch.csprojResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\GettingStarted\GradeMatch\obj\Debug\GradeMatch.exe
+C:\Users\eahscs\Documents\GitHub\GettingStarted\GradeMatch\obj\Debug\GradeMatch.pdb
