@@ -10,21 +10,37 @@ namespace Palindrome
     {
         static void Main(string[] args)
         {
-            
-            Console.WriteLine("Enter a phrase: ");
-            var input = Console.ReadLine();
-            //var length = input.length();
-            
-            char[] letters = input.ToCharArray();
-            char[] reversed = input.ToCharArray();
-            Array.Reverse(reversed);
-            if (letters == reversed)
-                Console.WriteLine(input + " is a palindrome");
-            else
-                Console.WriteLine(input + " is not a palinrome");
+            int cont = 1;
+            while (cont == 1)
+            {
+                Console.WriteLine("Enter a phrase: ");
+                String original = Console.ReadLine();
+                //var length = input.length();
+                String input = original.ToLower();
+                // Char.IsPunctuation(c)
 
-            Console.WriteLine("FLY HAI");
+                input = input.Replace(" ", "");
+                input = input.Replace("?", "");
+                input = input.Replace(".", "");
+                input = input.Replace(",", "");
+                input = input.Replace(":", "");
+                input = input.Replace("!", "");
+                input = input.Replace(";", "");
 
+
+                char[] reversed = input.ToCharArray();
+
+                Array.Reverse(reversed);
+                String rev = new String(reversed);
+                
+
+                if (input != rev)
+                    Console.WriteLine("\"" + original + "\"" + " is not a palindrome");
+                else
+                    Console.WriteLine("\"" + original + "\"" + " is a palindrome");
+
+
+            }
 
 
 
